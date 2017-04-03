@@ -10,9 +10,9 @@ After time is up, or the tree has been fully evaluated, the AI selects the best 
 
 To compile the code, a Makefile has been provided, simply type in "make".
 
-To run the AI against a human opponent, add the argument 
+To run the AI against a human opponent, execute with the arguments 
 
-  >> -p1 alphabeta_MoodyCasias
+  > java Main -p1 alphabeta_MoodyCasias
   
   Alternatively, replace p1 with p2 and the AI will go second. 
   
